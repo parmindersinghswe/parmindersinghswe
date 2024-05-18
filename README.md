@@ -1,5 +1,7 @@
 # [Parminder Singh - Full Stack Software Engineer](https://www.parmindersingh.info/)
-
+<p align="center">
+ <img width="1000" src="CSharpDeveloper.svg" alt="C# Developer.svg"/>
+</p>
 Hi👋, I'm Parminder Singh, a Full Stack Software Engineer dedicated to making the world a better place one line of code at a time. With over 5 years of experience in crafting dynamic web applications using Dot Net technologies, including C#, SQL, and JavaScript (React.js), I specialize in both backend and frontend development, focusing on creating seamless user experiences.
 
 ## 🚀 About Me
