@@ -24,12 +24,14 @@
     <circle cx="120" cy="90" r="5" fill="green"/>
     <circle cx="130" cy="90" r="5" fill="green"/>
     <circle cx="140" cy="90" r="5" fill="green"/>
-    <circle cx="150" cy="100" r="5" fill="green"/>
+    <circle cx="140" cy="100" r="5" fill="green"/>
+    <circle cx="140" cy="109" r="4" fill="green"/>
     <circle cx="110" cy="150" r="5" fill="green"/>
     <circle cx="120" cy="150" r="5" fill="green"/>
     <circle cx="130" cy="150" r="5" fill="green"/>
     <circle cx="140" cy="150" r="5" fill="green"/>
-    <circle cx="150" cy="140" r="5" fill="green"/>
+    <circle cx="140" cy="140" r="5" fill="green"/>
+    <circle cx="140" cy="131" r="4" fill="green"/>
 <!--#-->
 <!--Vertical lines-->
     <circle cx="180" cy="90" r="5" fill="green"/>
@@ -77,6 +79,7 @@
     <circle cx="360" cy="90" r="5" fill="green"/>
     <circle cx="370" cy="90" r="5" fill="green"/>
     <circle cx="380" cy="90" r="5" fill="green"/>
+    <circle cx="385" cy="95" r="3" fill="green"/>
 <!--Bottom horizontal line-->
     <circle cx="340" cy="150" r="5" fill="green"/>
     <circle cx="350" cy="150" r="5" fill="green"/>
@@ -89,6 +92,7 @@
     <circle cx="390" cy="120" r="5" fill="green"/>
     <circle cx="390" cy="130" r="5" fill="green"/>
     <circle cx="390" cy="140" r="5" fill="green"/>
+    <circle cx="385" cy="145" r="3" fill="green"/>
 <!--e-->
 <!--Left vertical line-->
     <circle cx="410" cy="90" r="5" fill="green"/>
@@ -122,17 +126,22 @@
     <circle cx="490" cy="100" r="5" fill="green"/>
     <circle cx="490" cy="110" r="5" fill="green"/>
     <circle cx="490" cy="120" r="5" fill="green"/>
+    <circle cx="495" cy="125" r="5" fill="green"/>
     <circle cx="500" cy="130" r="5" fill="green"/>
+    <circle cx="505" cy="135" r="5" fill="green"/>
     <circle cx="510" cy="140" r="5" fill="green"/>
+    <circle cx="515" cy="145" r="5" fill="green"/>
     <circle cx="520" cy="150" r="5" fill="green"/>
 <!--Right diagonal line-->
     <circle cx="550" cy="90" r="5" fill="green"/>
     <circle cx="550" cy="100" r="5" fill="green"/>
     <circle cx="550" cy="110" r="5" fill="green"/>
     <circle cx="550" cy="120" r="5" fill="green"/>
+    <circle cx="545" cy="125" r="5" fill="green"/>
     <circle cx="540" cy="130" r="5" fill="green"/>
+    <circle cx="535" cy="135" r="5" fill="green"/>
     <circle cx="530" cy="140" r="5" fill="green"/>
-    <circle cx="520" cy="150" r="5" fill="green"/>
+    <circle cx="525" cy="145" r="5" fill="green"/>
 <!--e-->
 <!--Left vertical line-->
     <circle cx="570" cy="90" r="5" fill="green"/>
@@ -267,19 +276,23 @@
     <circle cx="980" cy="90" r="5" fill="green"/>
     <circle cx="990" cy="90" r="5" fill="green"/>
     <circle cx="1000" cy="90" r="5" fill="green"/>
+    <circle cx="1010" cy="90" r="4.5" fill="green"/>
 <!--Middle horizontal line-->
     <circle cx="970" cy="120" r="5" fill="green"/>
     <circle cx="980" cy="120" r="5" fill="green"/>
     <circle cx="990" cy="120" r="5" fill="green"/>
-    <circle cx="1000" cy="120" r="5" fill="green"/>
 <!--Diagonal line for R-->
     <circle cx="1000" cy="120" r="5" fill="green"/>
+    <circle cx="1005" cy="125" r="5" fill="green"/>
     <circle cx="1010" cy="130" r="5" fill="green"/>
-    <circle cx="1020" cy="140" r="5" fill="green"/>
-    <circle cx="1030" cy="150" r="5" fill="green"/>
+    <circle cx="1015" cy="135" r="4" fill="green"/>
+    <circle cx="1020" cy="140" r="4" fill="green"/>
+    <circle cx="1025" cy="145" r="3.5" fill="green"/>
+    <circle cx="1030" cy="150" r="3" fill="green"/>
 <!--Left vertical line-->
     <circle cx="1010" cy="100" r="5" fill="green"/>
     <circle cx="1010" cy="110" r="5" fill="green"/>
+    <circle cx="1005" cy="115" r="4" fill="green"/>
   </g>
   <circle id="snake" r="5" fill="blue">
     <animateMotion repeatCount="indefinite" dur="20s">
