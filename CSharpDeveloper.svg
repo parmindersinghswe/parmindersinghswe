@@ -1,5 +1,5 @@
-<svg width="962" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 961 200">
-  <!-- Background grid to resemble GitHub progress board -->
+<svg width="962" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1121 241">
+<!--Background grid to resemble GitHub progress board-->
   <defs>
     <pattern id="smallGrid" width="5" height="5" patternUnits="userSpaceOnUse">
       <path d="M 10 0 L 0 0 0 10" fill="none" stroke="lightgrey" stroke-width="0.5"/>
@@ -9,319 +9,278 @@
       <path d="M 80 0 L 0 0 0 80" fill="none" stroke="grey" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="100%" height="100%" fill="url(#grid)" />
-  <!-- Dots forming the text "C# Developer" -->
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+<!--Dots forming the text "C# Developer"-->
   <g id="text">
-    <!-- C -->
-	 <circle cx="20" cy="90" r="3" fill="green"/>
-    <circle cx="20" cy="100" r="3" fill="green"/>
-    <circle cx="20" cy="110" r="3" fill="green"/>
-    <circle cx="20" cy="120" r="3" fill="green"/>
-    <circle cx="20" cy="130" r="3" fill="green"/>
-	 <circle cx="20" cy="140" r="3" fill="green"/>
-	  <circle cx="20" cy="150" r="3" fill="green"/>
-	
-	 <circle cx="30" cy="90" r="3" fill="green"/>
-    <circle cx="40" cy="90" r="3" fill="green"/>
-    <circle cx="50" cy="90" r="3" fill="green"/>
-	<circle cx="60" cy="90" r="3" fill="green"/>
-	<circle cx="60" cy="100" r="3" fill="green"/>
-	
-	 <circle cx="30" cy="150" r="3" fill="green"/>
-    <circle cx="40" cy="150" r="3" fill="green"/>
-    <circle cx="50" cy="150" r="3" fill="green"/>
-	<circle cx="60" cy="150" r="3" fill="green"/>
-	<circle cx="60" cy="140" r="3" fill="green"/>
-	
-    <!-- # -->
-    <!-- Vertical lines -->
-  <circle cx="100" cy="90" r="3" fill="green"/>
-  <circle cx="100" cy="100" r="3" fill="green"/>
-  <circle cx="100" cy="110" r="3" fill="green"/>
-  <circle cx="100" cy="120" r="3" fill="green"/>
-  <circle cx="100" cy="130" r="3" fill="green"/>
-  <circle cx="100" cy="140" r="3" fill="green"/>
-  <circle cx="100" cy="150" r="3" fill="green"/>
-  
-  <circle cx="120" cy="90" r="3" fill="green"/>
-  <circle cx="120" cy="100" r="3" fill="green"/>
-  <circle cx="120" cy="110" r="3" fill="green"/>
-  <circle cx="120" cy="120" r="3" fill="green"/>
-  <circle cx="120" cy="130" r="3" fill="green"/>
-  <circle cx="120" cy="140" r="3" fill="green"/>
-  <circle cx="120" cy="150" r="3" fill="green"/>
-
-  <circle cx="140" cy="90" r="3" fill="green"/>
-  <circle cx="140" cy="100" r="3" fill="green"/>
-  <circle cx="140" cy="110" r="3" fill="green"/>
-  <circle cx="140" cy="120" r="3" fill="green"/>
-  <circle cx="140" cy="130" r="3" fill="green"/>
-  <circle cx="140" cy="140" r="3" fill="green"/>
-  <circle cx="140" cy="150" r="3" fill="green"/>
-
-
-
-  <!-- Horizontal lines -->
-  <circle cx="90" cy="110" r="3" fill="green"/>
-  <circle cx="110" cy="110" r="3" fill="green"/>
-  <circle cx="130" cy="110" r="3" fill="green"/>
-  <circle cx="150" cy="110" r="3" fill="green"/>
-  
-  <circle cx="90" cy="130" r="3" fill="green"/>
-  <circle cx="110" cy="130" r="3" fill="green"/>
-  <circle cx="130" cy="130" r="3" fill="green"/>
-  <circle cx="150" cy="130" r="3" fill="green"/>
-  
-    <!-- D -->
-     <!-- Left vertical line -->
-  <circle cx="250" cy="90" r="3" fill="green"/>
-  <circle cx="250" cy="100" r="3" fill="green"/>
-  <circle cx="250" cy="110" r="3" fill="green"/>
-  <circle cx="250" cy="120" r="3" fill="green"/>
-  <circle cx="250" cy="130" r="3" fill="green"/>
-  <circle cx="250" cy="140" r="3" fill="green"/>
-  <circle cx="250" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="260" cy="90" r="3" fill="green"/>
-  <circle cx="270" cy="90" r="3" fill="green"/>
-  <circle cx="280" cy="90" r="3" fill="green"/>
-  <circle cx="290" cy="90" r="3" fill="green"/>
-  <circle cx="300" cy="90" r="3" fill="green"/>
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="260" cy="150" r="3" fill="green"/>
-  <circle cx="270" cy="150" r="3" fill="green"/>
-  <circle cx="280" cy="150" r="3" fill="green"/>
-  <circle cx="290" cy="150" r="3" fill="green"/>
-  <circle cx="300" cy="150" r="3" fill="green"/>
-  
-  <!-- Right vertical line to complete "D" -->
-  <circle cx="310" cy="100" r="3" fill="green"/>
-  <circle cx="310" cy="110" r="3" fill="green"/>
-  <circle cx="310" cy="120" r="3" fill="green"/>
-  <circle cx="310" cy="130" r="3" fill="green"/>
-  <circle cx="310" cy="140" r="3" fill="green"/>
-    <!-- e -->
-    <!-- Left vertical line -->
-  <circle cx="330" cy="90" r="3" fill="green"/>
-  <circle cx="330" cy="100" r="3" fill="green"/>
-  <circle cx="330" cy="110" r="3" fill="green"/>
-  <circle cx="330" cy="120" r="3" fill="green"/>
-  <circle cx="330" cy="130" r="3" fill="green"/>
-  <circle cx="330" cy="140" r="3" fill="green"/>
-  <circle cx="330" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="340" cy="90" r="3" fill="green"/>
-  <circle cx="350" cy="90" r="3" fill="green"/>
-  <circle cx="360" cy="90" r="3" fill="green"/>
-  <circle cx="370" cy="90" r="3" fill="green"/>
-  <circle cx="380" cy="90" r="3" fill="green"/>
-  
-  <!-- Middle horizontal line -->
-  <circle cx="340" cy="120" r="3" fill="green"/>
-  <circle cx="350" cy="120" r="3" fill="green"/>
-  <circle cx="360" cy="120" r="3" fill="green"/>
-  <circle cx="370" cy="120" r="3" fill="green"/>
-  <circle cx="380" cy="120" r="3" fill="green"/>
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="340" cy="150" r="3" fill="green"/>
-  <circle cx="350" cy="150" r="3" fill="green"/>
-  <circle cx="360" cy="150" r="3" fill="green"/>
-  <circle cx="370" cy="150" r="3" fill="green"/>
-  <circle cx="380" cy="150" r="3" fill="green"/>
-    <!-- v -->
-  <!-- Left diagonal line -->
-   <circle cx="410" cy="90" r="3" fill="green"/>
-   <circle cx="410" cy="100" r="3" fill="green"/>
-  <circle cx="410" cy="110" r="3" fill="green"/>
-  <circle cx="410" cy="120" r="3" fill="green"/>
-  <circle cx="420" cy="130" r="3" fill="green"/>
-  <circle cx="430" cy="140" r="3" fill="green"/>
-  <circle cx="440" cy="150" r="3" fill="green"/>
-  
-  <!-- Right diagonal line -->
-   <circle cx="470" cy="90" r="3" fill="green"/>
-   <circle cx="470" cy="100" r="3" fill="green"/>
-  <circle cx="470" cy="110" r="3" fill="green"/>
-  <circle cx="470" cy="120" r="3" fill="green"/>
-  <circle cx="460" cy="130" r="3" fill="green"/>
-  <circle cx="450" cy="140" r="3" fill="green"/>
-  <circle cx="440" cy="150" r="3" fill="green"/>
-    <!-- e -->
-      <!-- Left vertical line -->
-  <circle cx="490" cy="90" r="3" fill="green"/>
-  <circle cx="490" cy="100" r="3" fill="green"/>
-  <circle cx="490" cy="110" r="3" fill="green"/>
-  <circle cx="490" cy="120" r="3" fill="green"/>
-  <circle cx="490" cy="130" r="3" fill="green"/>
-  <circle cx="490" cy="140" r="3" fill="green"/>
-  <circle cx="490" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="500" cy="90" r="3" fill="green"/>
-  <circle cx="510" cy="90" r="3" fill="green"/>
-  <circle cx="520" cy="90" r="3" fill="green"/>
-  <circle cx="530" cy="90" r="3" fill="green"/>
-  <circle cx="540" cy="90" r="3" fill="green"/>
-  
-  <!-- Middle horizontal line -->
-  <circle cx="500" cy="120" r="3" fill="green"/>
-  <circle cx="510" cy="120" r="3" fill="green"/>
-  <circle cx="520" cy="120" r="3" fill="green"/>
-  <circle cx="530" cy="120" r="3" fill="green"/>
-  <circle cx="540" cy="120" r="3" fill="green"/>
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="500" cy="150" r="3" fill="green"/>
-  <circle cx="510" cy="150" r="3" fill="green"/>
-  <circle cx="520" cy="150" r="3" fill="green"/>
-  <circle cx="530" cy="150" r="3" fill="green"/>
-  <circle cx="540" cy="150" r="3" fill="green"/>
-    <!-- l -->
-    <!-- Left vertical line -->
-  <circle cx="570" cy="90" r="3" fill="green"/>
-  <circle cx="570" cy="100" r="3" fill="green"/>
-  <circle cx="570" cy="110" r="3" fill="green"/>
-  <circle cx="570" cy="120" r="3" fill="green"/>
-  <circle cx="570" cy="130" r="3" fill="green"/>
-  <circle cx="570" cy="140" r="3" fill="green"/>
-  <circle cx="570" cy="150" r="3" fill="green"/>
-  
-  
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="580" cy="150" r="3" fill="green"/>
-  <circle cx="590" cy="150" r="3" fill="green"/>
-  <circle cx="600" cy="150" r="3" fill="green"/>
-  <circle cx="610" cy="150" r="3" fill="green"/>
-  <circle cx="620" cy="150" r="3" fill="green"/>
-    <!-- o -->
-     <!-- Left vertical line -->
-  <circle cx="650" cy="90" r="3" fill="green"/>
-  <circle cx="650" cy="100" r="3" fill="green"/>
-  <circle cx="650" cy="110" r="3" fill="green"/>
-  <circle cx="650" cy="120" r="3" fill="green"/>
-  <circle cx="650" cy="130" r="3" fill="green"/>
-  <circle cx="650" cy="140" r="3" fill="green"/>
-  <circle cx="650" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="660" cy="90" r="3" fill="green"/>
-  <circle cx="670" cy="90" r="3" fill="green"/>
-  <circle cx="680" cy="90" r="3" fill="green"/>
-  <circle cx="690" cy="90" r="3" fill="green"/>
-  <circle cx="700" cy="90" r="3" fill="green"/>
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="660" cy="150" r="3" fill="green"/>
-  <circle cx="670" cy="150" r="3" fill="green"/>
-  <circle cx="680" cy="150" r="3" fill="green"/>
-  <circle cx="690" cy="150" r="3" fill="green"/>
-  <circle cx="700" cy="150" r="3" fill="green"/>
-      <!-- Right vertical line -->
-  <circle cx="700" cy="100" r="3" fill="green"/>
-  <circle cx="700" cy="110" r="3" fill="green"/>
-  <circle cx="700" cy="120" r="3" fill="green"/>
-  <circle cx="700" cy="130" r="3" fill="green"/>
-  <circle cx="700" cy="140" r="3" fill="green"/>
-  <circle cx="700" cy="150" r="3" fill="green"/>
-  
-    <!-- p -->
-      <!-- Left vertical line -->
-  <circle cx="730" cy="90" r="3" fill="green"/>
-  <circle cx="730" cy="100" r="3" fill="green"/>
-  <circle cx="730" cy="110" r="3" fill="green"/>
-  <circle cx="730" cy="120" r="3" fill="green"/>
-  <circle cx="730" cy="130" r="3" fill="green"/>
-  <circle cx="730" cy="140" r="3" fill="green"/>
-  <circle cx="730" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="740" cy="90" r="3" fill="green"/>
-  <circle cx="750" cy="90" r="3" fill="green"/>
-  <circle cx="760" cy="90" r="3" fill="green"/>
-  <circle cx="770" cy="90" r="3" fill="green"/>
-  <circle cx="780" cy="90" r="3" fill="green"/>
-  
-  <!-- Middle horizontal line -->
-  <circle cx="740" cy="120" r="3" fill="green"/>
-  <circle cx="750" cy="120" r="3" fill="green"/>
-  <circle cx="760" cy="120" r="3" fill="green"/>
-  <circle cx="770" cy="120" r="3" fill="green"/>
-  <circle cx="780" cy="120" r="3" fill="green"/>
-  
-     <!-- Right vertical line -->
-  <circle cx="780" cy="100" r="3" fill="green"/>
-  <circle cx="780" cy="110" r="3" fill="green"/>
-    <!-- e -->
-     <!-- Left vertical line -->
-  <circle cx="810" cy="90" r="3" fill="green"/>
-  <circle cx="810" cy="100" r="3" fill="green"/>
-  <circle cx="810" cy="110" r="3" fill="green"/>
-  <circle cx="810" cy="120" r="3" fill="green"/>
-  <circle cx="810" cy="130" r="3" fill="green"/>
-  <circle cx="810" cy="140" r="3" fill="green"/>
-  <circle cx="810" cy="150" r="3" fill="green"/>
-  
-  <!-- Top horizontal line -->
-  <circle cx="810" cy="90" r="3" fill="green"/>
-  <circle cx="820" cy="90" r="3" fill="green"/>
-  <circle cx="830" cy="90" r="3" fill="green"/>
-  <circle cx="840" cy="90" r="3" fill="green"/>
-  <circle cx="850" cy="90" r="3" fill="green"/>
-  
-  <!-- Middle horizontal line -->
-  <circle cx="810" cy="120" r="3" fill="green"/>
-  <circle cx="820" cy="120" r="3" fill="green"/>
-  <circle cx="830" cy="120" r="3" fill="green"/>
-  <circle cx="840" cy="120" r="3" fill="green"/>
-  <circle cx="850" cy="120" r="3" fill="green"/>
-  
-  <!-- Bottom horizontal line -->
-  <circle cx="810" cy="150" r="3" fill="green"/>
-  <circle cx="820" cy="150" r="3" fill="green"/>
-  <circle cx="830" cy="150" r="3" fill="green"/>
-  <circle cx="840" cy="150" r="3" fill="green"/>
-  <circle cx="850" cy="150" r="3" fill="green"/>
-    <!-- r -->
-   <!-- Left vertical line -->
-<circle cx="890" cy="90" r="3" fill="green"/>
-<circle cx="890" cy="100" r="3" fill="green"/>
-<circle cx="890" cy="110" r="3" fill="green"/>
-<circle cx="890" cy="120" r="3" fill="green"/>
-<circle cx="890" cy="130" r="3" fill="green"/>
-<circle cx="890" cy="140" r="3" fill="green"/>
-<circle cx="890" cy="150" r="3" fill="green"/>
-
-<!-- Top horizontal line -->
-<circle cx="890" cy="90" r="3" fill="green"/>
-<circle cx="900" cy="90" r="3" fill="green"/>
-<circle cx="910" cy="90" r="3" fill="green"/>
-<circle cx="920" cy="90" r="3" fill="green"/>
-<circle cx="930" cy="90" r="3" fill="green"/>
-
-<!-- Middle horizontal line -->
-<circle cx="890" cy="120" r="3" fill="green"/>
-<circle cx="900" cy="120" r="3" fill="green"/>
-<circle cx="910" cy="120" r="3" fill="green"/>
-<circle cx="920" cy="120" r="3" fill="green"/>
-
-<!-- Diagonal line for R -->
-<circle cx="920" cy="120" r="3" fill="green"/>
-<circle cx="930" cy="130" r="3" fill="green"/>
-<circle cx="940" cy="140" r="3" fill="green"/>
-<circle cx="950" cy="150" r="3" fill="green"/>
-
-<!-- Left vertical line -->
-<circle cx="930" cy="100" r="3" fill="green"/>
-<circle cx="930" cy="110" r="3" fill="green"/>
-
- 
+<!--C-->
+    <circle cx="100" cy="90" r="5" fill="green"/>
+    <circle cx="100" cy="100" r="5" fill="green"/>
+    <circle cx="100" cy="110" r="5" fill="green"/>
+    <circle cx="100" cy="120" r="5" fill="green"/>
+    <circle cx="100" cy="130" r="5" fill="green"/>
+    <circle cx="100" cy="140" r="5" fill="green"/>
+    <circle cx="100" cy="150" r="5" fill="green"/>
+    <circle cx="110" cy="90" r="5" fill="green"/>
+    <circle cx="120" cy="90" r="5" fill="green"/>
+    <circle cx="130" cy="90" r="5" fill="green"/>
+    <circle cx="140" cy="90" r="5" fill="green"/>
+    <circle cx="150" cy="100" r="5" fill="green"/>
+    <circle cx="110" cy="150" r="5" fill="green"/>
+    <circle cx="120" cy="150" r="5" fill="green"/>
+    <circle cx="130" cy="150" r="5" fill="green"/>
+    <circle cx="140" cy="150" r="5" fill="green"/>
+    <circle cx="150" cy="140" r="5" fill="green"/>
+<!--#-->
+<!--Vertical lines-->
+    <circle cx="180" cy="90" r="5" fill="green"/>
+    <circle cx="180" cy="100" r="5" fill="green"/>
+    <circle cx="180" cy="110" r="5" fill="green"/>
+    <circle cx="180" cy="120" r="5" fill="green"/>
+    <circle cx="180" cy="130" r="5" fill="green"/>
+    <circle cx="180" cy="140" r="5" fill="green"/>
+    <circle cx="180" cy="150" r="5" fill="green"/>
+    <circle cx="200" cy="90" r="5" fill="green"/>
+    <circle cx="200" cy="100" r="5" fill="green"/>
+    <circle cx="200" cy="110" r="5" fill="green"/>
+    <circle cx="200" cy="120" r="5" fill="green"/>
+    <circle cx="200" cy="130" r="5" fill="green"/>
+    <circle cx="200" cy="140" r="5" fill="green"/>
+    <circle cx="200" cy="150" r="5" fill="green"/>
+    <circle cx="220" cy="90" r="5" fill="green"/>
+    <circle cx="220" cy="100" r="5" fill="green"/>
+    <circle cx="220" cy="110" r="5" fill="green"/>
+    <circle cx="220" cy="120" r="5" fill="green"/>
+    <circle cx="220" cy="130" r="5" fill="green"/>
+    <circle cx="220" cy="140" r="5" fill="green"/>
+    <circle cx="220" cy="150" r="5" fill="green"/>
+<!--Horizontal lines-->
+    <circle cx="170" cy="110" r="5" fill="green"/>
+    <circle cx="190" cy="110" r="5" fill="green"/>
+    <circle cx="210" cy="110" r="5" fill="green"/>
+    <circle cx="230" cy="110" r="5" fill="green"/>
+    <circle cx="170" cy="130" r="5" fill="green"/>
+    <circle cx="190" cy="130" r="5" fill="green"/>
+    <circle cx="210" cy="130" r="5" fill="green"/>
+    <circle cx="230" cy="130" r="5" fill="green"/>
+<!--D-->
+<!--Left vertical line-->
+    <circle cx="330" cy="90" r="5" fill="green"/>
+    <circle cx="330" cy="100" r="5" fill="green"/>
+    <circle cx="330" cy="110" r="5" fill="green"/>
+    <circle cx="330" cy="120" r="5" fill="green"/>
+    <circle cx="330" cy="130" r="5" fill="green"/>
+    <circle cx="330" cy="140" r="5" fill="green"/>
+    <circle cx="330" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="340" cy="90" r="5" fill="green"/>
+    <circle cx="350" cy="90" r="5" fill="green"/>
+    <circle cx="360" cy="90" r="5" fill="green"/>
+    <circle cx="370" cy="90" r="5" fill="green"/>
+    <circle cx="380" cy="90" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="340" cy="150" r="5" fill="green"/>
+    <circle cx="350" cy="150" r="5" fill="green"/>
+    <circle cx="360" cy="150" r="5" fill="green"/>
+    <circle cx="370" cy="150" r="5" fill="green"/>
+    <circle cx="380" cy="150" r="5" fill="green"/>
+<!--Right vertical line to complete "D"-->
+    <circle cx="390" cy="100" r="5" fill="green"/>
+    <circle cx="390" cy="110" r="5" fill="green"/>
+    <circle cx="390" cy="120" r="5" fill="green"/>
+    <circle cx="390" cy="130" r="5" fill="green"/>
+    <circle cx="390" cy="140" r="5" fill="green"/>
+<!--e-->
+<!--Left vertical line-->
+    <circle cx="410" cy="90" r="5" fill="green"/>
+    <circle cx="410" cy="100" r="5" fill="green"/>
+    <circle cx="410" cy="110" r="5" fill="green"/>
+    <circle cx="410" cy="120" r="5" fill="green"/>
+    <circle cx="410" cy="130" r="5" fill="green"/>
+    <circle cx="410" cy="140" r="5" fill="green"/>
+    <circle cx="410" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="420" cy="90" r="5" fill="green"/>
+    <circle cx="430" cy="90" r="5" fill="green"/>
+    <circle cx="440" cy="90" r="5" fill="green"/>
+    <circle cx="450" cy="90" r="5" fill="green"/>
+    <circle cx="460" cy="90" r="5" fill="green"/>
+<!--Middle horizontal line-->
+    <circle cx="420" cy="120" r="5" fill="green"/>
+    <circle cx="430" cy="120" r="5" fill="green"/>
+    <circle cx="440" cy="120" r="5" fill="green"/>
+    <circle cx="450" cy="120" r="5" fill="green"/>
+    <circle cx="460" cy="120" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="420" cy="150" r="5" fill="green"/>
+    <circle cx="430" cy="150" r="5" fill="green"/>
+    <circle cx="440" cy="150" r="5" fill="green"/>
+    <circle cx="450" cy="150" r="5" fill="green"/>
+    <circle cx="460" cy="150" r="5" fill="green"/>
+<!--v-->
+<!--Left diagonal line-->
+    <circle cx="490" cy="90" r="5" fill="green"/>
+    <circle cx="490" cy="100" r="5" fill="green"/>
+    <circle cx="490" cy="110" r="5" fill="green"/>
+    <circle cx="490" cy="120" r="5" fill="green"/>
+    <circle cx="500" cy="130" r="5" fill="green"/>
+    <circle cx="510" cy="140" r="5" fill="green"/>
+    <circle cx="520" cy="150" r="5" fill="green"/>
+<!--Right diagonal line-->
+    <circle cx="550" cy="90" r="5" fill="green"/>
+    <circle cx="550" cy="100" r="5" fill="green"/>
+    <circle cx="550" cy="110" r="5" fill="green"/>
+    <circle cx="550" cy="120" r="5" fill="green"/>
+    <circle cx="540" cy="130" r="5" fill="green"/>
+    <circle cx="530" cy="140" r="5" fill="green"/>
+    <circle cx="520" cy="150" r="5" fill="green"/>
+<!--e-->
+<!--Left vertical line-->
+    <circle cx="570" cy="90" r="5" fill="green"/>
+    <circle cx="570" cy="100" r="5" fill="green"/>
+    <circle cx="570" cy="110" r="5" fill="green"/>
+    <circle cx="570" cy="120" r="5" fill="green"/>
+    <circle cx="570" cy="130" r="5" fill="green"/>
+    <circle cx="570" cy="140" r="5" fill="green"/>
+    <circle cx="570" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="580" cy="90" r="5" fill="green"/>
+    <circle cx="590" cy="90" r="5" fill="green"/>
+    <circle cx="600" cy="90" r="5" fill="green"/>
+    <circle cx="610" cy="90" r="5" fill="green"/>
+    <circle cx="620" cy="90" r="5" fill="green"/>
+<!--Middle horizontal line-->
+    <circle cx="580" cy="120" r="5" fill="green"/>
+    <circle cx="590" cy="120" r="5" fill="green"/>
+    <circle cx="600" cy="120" r="5" fill="green"/>
+    <circle cx="610" cy="120" r="5" fill="green"/>
+    <circle cx="620" cy="120" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="580" cy="150" r="5" fill="green"/>
+    <circle cx="590" cy="150" r="5" fill="green"/>
+    <circle cx="600" cy="150" r="5" fill="green"/>
+    <circle cx="610" cy="150" r="5" fill="green"/>
+    <circle cx="620" cy="150" r="5" fill="green"/>
+<!--l-->
+<!--Left vertical line-->
+    <circle cx="650" cy="90" r="5" fill="green"/>
+    <circle cx="650" cy="100" r="5" fill="green"/>
+    <circle cx="650" cy="110" r="5" fill="green"/>
+    <circle cx="650" cy="120" r="5" fill="green"/>
+    <circle cx="650" cy="130" r="5" fill="green"/>
+    <circle cx="650" cy="140" r="5" fill="green"/>
+    <circle cx="650" cy="150" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="660" cy="150" r="5" fill="green"/>
+    <circle cx="670" cy="150" r="5" fill="green"/>
+    <circle cx="680" cy="150" r="5" fill="green"/>
+    <circle cx="690" cy="150" r="5" fill="green"/>
+    <circle cx="700" cy="150" r="5" fill="green"/>
+<!--o-->
+<!--Left vertical line-->
+    <circle cx="730" cy="90" r="5" fill="green"/>
+    <circle cx="730" cy="100" r="5" fill="green"/>
+    <circle cx="730" cy="110" r="5" fill="green"/>
+    <circle cx="730" cy="120" r="5" fill="green"/>
+    <circle cx="730" cy="130" r="5" fill="green"/>
+    <circle cx="730" cy="140" r="5" fill="green"/>
+    <circle cx="730" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="740" cy="90" r="5" fill="green"/>
+    <circle cx="750" cy="90" r="5" fill="green"/>
+    <circle cx="760" cy="90" r="5" fill="green"/>
+    <circle cx="770" cy="90" r="5" fill="green"/>
+    <circle cx="780" cy="90" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="740" cy="150" r="5" fill="green"/>
+    <circle cx="750" cy="150" r="5" fill="green"/>
+    <circle cx="760" cy="150" r="5" fill="green"/>
+    <circle cx="770" cy="150" r="5" fill="green"/>
+    <circle cx="780" cy="150" r="5" fill="green"/>
+<!--Right vertical line-->
+    <circle cx="780" cy="100" r="5" fill="green"/>
+    <circle cx="780" cy="110" r="5" fill="green"/>
+    <circle cx="780" cy="120" r="5" fill="green"/>
+    <circle cx="780" cy="130" r="5" fill="green"/>
+    <circle cx="780" cy="140" r="5" fill="green"/>
+    <circle cx="780" cy="150" r="5" fill="green"/>
+<!--p-->
+<!--Left vertical line-->
+    <circle cx="810" cy="90" r="5" fill="green"/>
+    <circle cx="810" cy="100" r="5" fill="green"/>
+    <circle cx="810" cy="110" r="5" fill="green"/>
+    <circle cx="810" cy="120" r="5" fill="green"/>
+    <circle cx="810" cy="130" r="5" fill="green"/>
+    <circle cx="810" cy="140" r="5" fill="green"/>
+    <circle cx="810" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="820" cy="90" r="5" fill="green"/>
+    <circle cx="830" cy="90" r="5" fill="green"/>
+    <circle cx="840" cy="90" r="5" fill="green"/>
+    <circle cx="850" cy="90" r="5" fill="green"/>
+    <circle cx="860" cy="90" r="5" fill="green"/>
+<!--Middle horizontal line-->
+    <circle cx="820" cy="120" r="5" fill="green"/>
+    <circle cx="830" cy="120" r="5" fill="green"/>
+    <circle cx="840" cy="120" r="5" fill="green"/>
+    <circle cx="850" cy="120" r="5" fill="green"/>
+    <circle cx="860" cy="120" r="5" fill="green"/>
+<!--Right vertical line-->
+    <circle cx="860" cy="100" r="5" fill="green"/>
+    <circle cx="860" cy="110" r="5" fill="green"/>
+<!--e-->
+<!--Left vertical line-->
+    <circle cx="890" cy="90" r="5" fill="green"/>
+    <circle cx="890" cy="100" r="5" fill="green"/>
+    <circle cx="890" cy="110" r="5" fill="green"/>
+    <circle cx="890" cy="120" r="5" fill="green"/>
+    <circle cx="890" cy="130" r="5" fill="green"/>
+    <circle cx="890" cy="140" r="5" fill="green"/>
+    <circle cx="890" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="890" cy="90" r="5" fill="green"/>
+    <circle cx="900" cy="90" r="5" fill="green"/>
+    <circle cx="910" cy="90" r="5" fill="green"/>
+    <circle cx="920" cy="90" r="5" fill="green"/>
+    <circle cx="930" cy="90" r="5" fill="green"/>
+<!--Middle horizontal line-->
+    <circle cx="890" cy="120" r="5" fill="green"/>
+    <circle cx="900" cy="120" r="5" fill="green"/>
+    <circle cx="910" cy="120" r="5" fill="green"/>
+    <circle cx="920" cy="120" r="5" fill="green"/>
+    <circle cx="930" cy="120" r="5" fill="green"/>
+<!--Bottom horizontal line-->
+    <circle cx="890" cy="150" r="5" fill="green"/>
+    <circle cx="900" cy="150" r="5" fill="green"/>
+    <circle cx="910" cy="150" r="5" fill="green"/>
+    <circle cx="920" cy="150" r="5" fill="green"/>
+    <circle cx="930" cy="150" r="5" fill="green"/>
+<!--r-->
+<!--Left vertical line-->
+    <circle cx="970" cy="90" r="5" fill="green"/>
+    <circle cx="970" cy="100" r="5" fill="green"/>
+    <circle cx="970" cy="110" r="5" fill="green"/>
+    <circle cx="970" cy="120" r="5" fill="green"/>
+    <circle cx="970" cy="130" r="5" fill="green"/>
+    <circle cx="970" cy="140" r="5" fill="green"/>
+    <circle cx="970" cy="150" r="5" fill="green"/>
+<!--Top horizontal line-->
+    <circle cx="980" cy="90" r="5" fill="green"/>
+    <circle cx="990" cy="90" r="5" fill="green"/>
+    <circle cx="1000" cy="90" r="5" fill="green"/>
+<!--Middle horizontal line-->
+    <circle cx="970" cy="120" r="5" fill="green"/>
+    <circle cx="980" cy="120" r="5" fill="green"/>
+    <circle cx="990" cy="120" r="5" fill="green"/>
+    <circle cx="1000" cy="120" r="5" fill="green"/>
+<!--Diagonal line for R-->
+    <circle cx="1000" cy="120" r="5" fill="green"/>
+    <circle cx="1010" cy="130" r="5" fill="green"/>
+    <circle cx="1020" cy="140" r="5" fill="green"/>
+    <circle cx="1030" cy="150" r="5" fill="green"/>
+<!--Left vertical line-->
+    <circle cx="1010" cy="100" r="5" fill="green"/>
+    <circle cx="1010" cy="110" r="5" fill="green"/>
   </g>
-
   <circle id="snake" r="5" fill="blue">
     <animateMotion repeatCount="indefinite" dur="20s">
       <mpath href="#snakePath"/>
